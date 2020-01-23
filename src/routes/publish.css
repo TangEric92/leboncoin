@@ -1,0 +1,24 @@
+.publish .header {
+  background-color: grey;
+}
+
+.publish {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.publish .container {
+  width: 75%;
+}
+.publish label {
+  font-weight: bold;
+}
+
+.input {
+  display: flex;
+  flex-direction: column;
+}
+
+.input input,
+textarea {
+}
